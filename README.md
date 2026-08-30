@@ -1,93 +1,116 @@
-<h1 align="center">Hey there, I'm Milind Sahu 👋</h1>
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=500&color=00FFEF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+%26+Next.js+Ecosystem;AI+%26+Computer+Vision+Enthusiast;Building+scalable+web+products." />
+</p>
+
+<!-- Animated GIF -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/gH3l9iIQaAkAAAAd/anime-frieren.gif" height="240" width="300">
+</p>
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,100:39ff14&height=180&section=header&text=Milind%20Sahu&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=milindsahu011&style=for-the-badge&color=00ffef&label=PROFILE+VIEWS" />
+</p>
+
+<h3 align="center">Full-Stack Developer | Computer Engineering @ SIES GST</h3>
+
+---
+
+## Dev Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;UI+%2F+UX+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me:
-
-🎓 I'm a Computer Science student focused on **full-stack development** and **UI-driven projects** ⚙️  
-🌱 Currently building real-world web apps using **Node.js**, **MongoDB**, and modern frontend tech  
-💡 I love crafting clean, responsive, and interactive user interfaces  
-🔭 Always exploring new tools and frameworks to level up my skills  
-
----
-
-### 🌐 Socials:
-
-<!-- Replace # with your actual profile links -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](#)
+## About Me
+- Computer Engineering undergraduate at **SIES Graduate School of Technology, Navi Mumbai** (2024–2028)
+- Web Development Intern at **Kaahmuchee Solution (NoLegalPaisa)** building production features for legal-tech
+- Hands-on with **MERN & Next.js ecosystem**, building responsive frontends, REST APIs, and database architectures
+- Experienced with **AI/ML & Computer Vision** (YOLOv11, OpenCV, FastAPI inference pipelines)
+- Passionate about engineering full-stack products, developer tools, and scalable web platforms
 
 ---
 
-### 🛠️ Tech Stack:
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Backend**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Design**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BigSmokeweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BigSmokeweb&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=milindsahu011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindsahu011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigSmokeweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=milindsahu011&theme=tokyonight&hide_border=true&stroke=00FFEF&ring=00FFEF&fire=39ff14&currStreakLabel=00FFEF" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
+## Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BigSmokeweb&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://raw.githubusercontent.com/milindsahu011/milindsahu011/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-### 🔥 Activity Graph:
+## Technical Skills
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BigSmokeweb&theme=tokyo-night" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,fastapi,py,php,html,css,mongodb,mysql,git,github,vercel,postman,figma" />
 </p>
+
+**Core Competencies:**
+- **Languages:** JavaScript, TypeScript, Python, PHP, HTML5, CSS3
+- **Frontend:** React, Next.js (App Router), Tailwind CSS, Responsive / Mobile-First UI
+- **Backend & APIs:** Node.js, Express.js, FastAPI, REST API Design, Auth & Session Handling
+- **AI & Computer Vision:** YOLOv11 (Object Detection), OpenCV, Model Training & Inference Pipelines
+- **Databases:** MongoDB, MySQL
+- **Tools & Platforms:** Git, GitHub, Vercel, Render, Postman, VS Code, Figma
+- **Concepts:** CRUD Architecture, Async Data Flow, Form Validation, Dark/Light Theming
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=BigSmokeweb&icon=0&color=6" />
-</p>
+## Experience
+
+- **Web Development Intern** @ **Kaahmuchee Solution Private Limited (NoLegalPaisa)** *(Oct 2025 – Present)*
+  - Built responsive, user-friendly frontend features for NoLegalPaisa, an Indian legal-tech platform, using HTML, CSS, and JavaScript.
+  - Identified & fixed bugs, optimized website performance, and translated business requirements into production UI implementations.
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack | Highlights |
+|---|---|---|---|
+| **Built On It — SIES** | Open-source collaboration & discovery platform with tutorials, "AskDev" Q&A, and project upload workflows | Next.js, Express.js, MongoDB, Render | Decoupled Full-Stack Architecture |
+| **KitchenGuard AI** | Computer vision system detecting PPE & hygiene compliance in food services across 7 classes | Python, YOLOv11, FastAPI, OpenCV, Vercel | Fine-tuned YOLO Detection Pipeline |
+| **DevVault** | SIES GST student project showcase with drag-and-drop uploads, live search/filtering & session persistence | HTML5, CSS3, JavaScript, Vercel | 12+ Pages, 4-Member Team Build |
+| **Restaurant Web App** | Type-safe restaurant platform with reusable components and dedicated shared lib layer | Next.js (App Router), TypeScript, Tailwind CSS, Vercel | Production Build Pipeline |
+
+---
+
+## Connect with Me
 
 <p align="center">
-  <i>⭐ Star my repositories if you find them helpful!</i>
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/milindsahu011">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:milindsahu011@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,100:39ff14&height=120&section=footer"/>
 </p>
