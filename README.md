@@ -15,7 +15,7 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=milindsahu011&style=for-the-badge&color=00ffef&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=BigSmokeweb&style=for-the-badge&color=00ffef&label=PROFILE+VIEWS" />
 </p>
 
 <h3 align="center">Full-Stack Developer | Computer Engineering @ SIES GST</h3>
@@ -42,8 +42,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BigSmokeweb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigSmokeweb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BigSmokeweb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BigSmokeweb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
 
 <p align="center">
