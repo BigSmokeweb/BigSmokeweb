@@ -42,12 +42,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milindsahu011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindsahu011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BigSmokeweb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigSmokeweb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=milindsahu011&theme=tokyonight&hide_border=true&stroke=00FFEF&ring=00FFEF&fire=39ff14&currStreakLabel=00FFEF" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=BigSmokeweb&theme=tokyonight&hide_border=true&stroke=00FFEF&ring=00FFEF&fire=39ff14&currStreakLabel=00FFEF" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/milindsahu011/milindsahu011/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/BigSmokeweb/BigSmokeweb/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
