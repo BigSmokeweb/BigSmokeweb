@@ -99,10 +99,10 @@
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/milind9855">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/milindsahu011">
+  <a href="https://github.com/BigSmokeweb">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:milindsahu011@gmail.com">
