@@ -89,10 +89,12 @@
 
 | Project | Description | Tech Stack | Highlights |
 |---|---|---|---|
-| **Built On It — SIES** | Open-source collaboration & discovery platform with tutorials, "AskDev" Q&A, and project upload workflows | Next.js, Express.js, MongoDB, Render | Decoupled Full-Stack Architecture |
-| **KitchenGuard AI** | Computer vision system detecting PPE & hygiene compliance in food services across 7 classes | Python, YOLOv11, FastAPI, OpenCV, Vercel | Fine-tuned YOLO Detection Pipeline |
-| **DevVault** | SIES GST student project showcase with drag-and-drop uploads, live search/filtering & session persistence | HTML5, CSS3, JavaScript, Vercel | 12+ Pages, 4-Member Team Build |
-| **Restaurant Web App** | Type-safe restaurant platform with reusable components and dedicated shared lib layer | Next.js (App Router), TypeScript, Tailwind CSS, Vercel | Production Build Pipeline |
+| **[Journi — Experience Platform](https://github.com/BigSmokeweb/Experience-Platform)** | Local experience discovery and itinerary planning platform with personalised recommendations and a provider portal | Next.js, TypeScript, NestJS, Prisma, PostgreSQL, Redis | AI Concierge, Interactive Maps & Provider Verification |
+| **[KitchenGuard AI](https://github.com/BigSmokeweb/KitchenGuard-AI)** | Computer vision platform that detects kitchen PPE and hygiene violations in images and video | Python, YOLOv11, FastAPI, OpenCV, Docker | Fine-tuned Detection, Scan History & Telegram Alerts |
+| **[AutoQA](https://github.com/BigSmokeweb/AutoQA)** | Automated website QA tool that scans for broken links, console errors, slow pages and network failures | Python, FastAPI, Playwright, Redis, RQ, PostgreSQL | Background Browser Scans & Optional Test-Account Login |
+| **[MyCinemaList](https://github.com/BigSmokeweb/MyCinemaList)** | Full-stack movie journal and watchlist with TMDB search, personal ratings and recommendations | JavaScript, Python, FastAPI, SQLAlchemy, SQLite, TMDB API | JWT Authentication, Custom Lists & Watch History |
+| **[Built On It — SIES](https://github.com/BigSmokeweb/Built_On_It)** | Developer collaboration platform for discovering projects, sharing solutions and asking technical questions | React, Vite, Node.js, Express.js, MySQL / TiDB | AskDev Q&A, File Uploads & Decoupled REST API |
+| **[BBQ Nation Frontend](https://github.com/BigSmokeweb/BBQ-Nation-Frontend)** | Responsive restaurant frontend with menu browsing, a persistent cart, reservations and catering pages | Next.js (App Router), TypeScript, React, Tailwind CSS | Reusable Components, Session Cart & Admin Dashboard UI |
 
 ---
 
