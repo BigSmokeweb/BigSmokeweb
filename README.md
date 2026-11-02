@@ -94,7 +94,7 @@
 | **[AutoQA](https://github.com/BigSmokeweb/AutoQA)** | Automated website QA tool that scans for broken links, console errors, slow pages and network failures | Python, FastAPI, Playwright, Redis, RQ, PostgreSQL | Background Browser Scans & Optional Test-Account Login |
 | **[MyCinemaList](https://github.com/BigSmokeweb/MyCinemaList)** | Full-stack movie journal and watchlist with TMDB search, personal ratings and recommendations | JavaScript, Python, FastAPI, SQLAlchemy, SQLite, TMDB API | JWT Authentication, Custom Lists & Watch History |
 | **[Built On It — SIES](https://github.com/BigSmokeweb/Built_On_It)** | Developer collaboration platform for discovering projects, sharing solutions and asking technical questions | React, Vite, Node.js, Express.js, MySQL / TiDB | AskDev Q&A, File Uploads & Decoupled REST API |
-| **[BBQ Nation Frontend](https://github.com/BigSmokeweb/BBQ-Nation-Frontend)** | Responsive restaurant frontend with menu browsing, a persistent cart, reservations and catering pages | Next.js (App Router), TypeScript, React, Tailwind CSS | Reusable Components, Session Cart & Admin Dashboard UI |
+| **[Clash Bot](https://github.com/BigSmokeweb/Clash_Bot)** | Clash of Clans automation project with a Python farming engine and live browser dashboard for BlueStacks | Python, OpenCV, ADB, JavaScript, FFmpeg | OCR Resource Tracking, Live Video & Start/Stop Controls |
 
 ---
 
