@@ -60,6 +60,12 @@
 
 ---
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="Milind's koi, generated from public GitHub activity" />
+</p>
+
+---
+
 ## Technical Skills
 
 <p align="center">
